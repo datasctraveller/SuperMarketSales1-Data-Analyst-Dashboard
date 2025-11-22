@@ -17,6 +17,6 @@ Analysis  of supermarket branches and the general market situation in America be
 
 - Dashboard Interaction <a href="https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/supermarket1.JPG">View Dashboard</a>
 ## Process
-
+  - 
 
 ## Dashboard
