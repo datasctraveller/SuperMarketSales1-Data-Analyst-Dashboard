@@ -6,8 +6,8 @@ Analysis  of supermarket branches and the general market situation in America be
 - <a href="https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/Supermarket-Data%20Analyst%20Project.xlsx">Supermarket Data</a>
 
 ## Questions (KPIs)
-  - Demostrate total sales period between 2014 and 2017
-  - Demostrate total profit period between 2014 and 2017
+  - Demostrate total sales period between 2014 and 2017?
+  - Demostrate total profit period between 2014 and 2017?
   - List of top 5 customers with the highest profits
   - How many customers were shopping between 2014 and 2017?
   - Demostrate highest selling products 
