@@ -4,3 +4,7 @@ Analysis  of supermarket branches and the general market situation in America be
 
 ## Dataset used
 - <a href="https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/Supermarket-Data%20Analyst%20Project.xlsx">Supermarket Data</a>
+
+## Questions (KPIs)
+
+- Dashboard Interaction <a href="https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/supermarket1.JPG">View Dashboard</a>
