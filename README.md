@@ -25,3 +25,14 @@ Analysis  of supermarket branches and the general market situation in America be
 
 ## Dashboard
 ![supermarket1](https://github.com/user-attachments/assets/877c4758-91eb-49a1-b8c3-946b6f057b5d)
+
+## Project Insights
+- total sales of the supermarket reached 2,297,201 dollars
+- total profit of the supermarket reached 286,397 dollars
+- The top 3 sub-categories by sales were phones, chairs, storage.
+- Furniture category had lowest profit in the 2015.
+- Technology category had the highest profit in the 2017.
+- California recorded the highest sales among all U.S. states.
+- North Dakota recorded the lowest sales among all U.S states.
+- The total number of customers increased after 2015.
+- %97 orders were delivered, while %3   were returned
