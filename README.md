@@ -17,6 +17,11 @@ Analysis  of supermarket branches and the general market situation in America be
 
 - Dashboard Interaction <a href="https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/supermarket1.JPG">View Dashboard</a>
 ## Process
-  - 
+- Reviewed data types, data format, values for consistency.
+- Built pivot tables to answer the analysis questions.
+- Combined all pivot tables into a single dashboard
+- Inserted slicers for month, year and main category.
+- Configure charts to update dynamically based on selection slicer
 
 ## Dashboard
+![supermarket1](https://github.com/user-attachments/assets/877c4758-91eb-49a1-b8c3-946b6f057b5d)
