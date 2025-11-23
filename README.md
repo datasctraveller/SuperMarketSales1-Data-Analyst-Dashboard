@@ -38,3 +38,4 @@ Analysis  of supermarket branches and the general market situation in America be
 - %97 orders were delivered, while %3   were returned(this information is not demonstrated in the dashboard)
   
 ## Final Conclusion
+Total performance analysis and profit analysis for the  period between 2014 and 2017 were conducted, including products categories and sub-categories sales analysis, customer analysis, regional analysis in U.S. states, and time series analysis were performed.There is a button in the top right corner to update current data on the dashboard.
