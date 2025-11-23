@@ -36,7 +36,7 @@ Analysis  of supermarket branches and the general market situation in America be
 - North Dakota recorded the lowest sales among all U.S states.
 - The total number of customers increased after 2015.
 - %97 orders were delivered, while %3   were returned(this information is not demonstrated in the dashboard)
-   https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/supermarketorderchart.JPG?raw=true
+   [https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/supermarketorderchart.JPG?raw=true](https://github.com/datasctraveller/SuperMarketSales1-Data-Analyst-Dashboard/blob/main/supermarketorderchart.JPG)
   
 ## Final Conclusion
 Total performance analysis and profit analysis for the  period between 2014 and 2017 were conducted, including products categories and sub-categories sales analysis, customer analysis, regional analysis in U.S. states, and time series analysis were performed.There is a button in the top right corner to update current data on the dashboard.
